@@ -1,0 +1,2 @@
+# Mobilalk_kotprog_FormEditor
+Mobilalkalmazásfejlesztés ktelező program _ kérdőív szerkesztő
