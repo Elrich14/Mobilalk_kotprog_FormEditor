@@ -14,3 +14,4 @@ A mobilapplikációmban egy alap kérdőív szerkesztő programot szerettem voln
 - Az oldalakra meg van csinálva az elforgatott módban való kinézet is
 
 - Az applikációt emulátoron teszteltem és nálam működött rendesen aminek kellett így kérlek ha telefonon próbálod és valamiéert nem működik próbáld meg emulátoron is.
+- A misc.xml, complier.xml, gradle.xml, workspace.xml és gitignore fájlok a .idea mappában voltak de azt nem engedi feltölteni
