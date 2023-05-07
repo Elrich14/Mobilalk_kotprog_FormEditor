@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kérdőív szerkesztő</string>
+    <string name="felhasznalonev">Felhasználónév</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="bejelentkezes">Bejelentkezés</string>
+    <string name="regisztracio">Regisztráció</string>
+    <string name="email">E-mail</string>
+    <string name="jelszo_megerosites">Jelszó megerősítése</string>
+    <string name="megse">Mégse</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="guestLogin">Belépés vendégként</string>
+    <string name="googleLogin">Bejelentkezés Google fiókkal</string>
+</resources>

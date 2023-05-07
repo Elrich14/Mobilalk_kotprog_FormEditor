@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1066828175062",
+    "project_id": "formeditor-e42b1",
+    "storage_bucket": "formeditor-e42b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066828175062:android:d942d70b6dc52cdaa15b77",
+        "android_client_info": {
+          "package_name": "com.example.krdvszerkeszt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066828175062-mvsnd1ftrkn0f2jcgn4g09ge4ftccnf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krdvszerkeszt",
+            "certificate_hash": "abfbc71cae95ddd60630750d1a864f2bed3c569f"
+          }
+        },
+        {
+          "client_id": "1066828175062-rnlqt4u2ihd14rmo5qt9163g58gd7l0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmLdUFZHGEyXTgWP35BjdlWtkijBdS3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066828175062-rnlqt4u2ihd14rmo5qt9163g58gd7l0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
